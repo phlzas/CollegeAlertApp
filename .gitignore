@@ -1,0 +1,35 @@
+# Flutter/Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.flutter-versions
+.packages
+.pub-cache/
+.pub/
+build/
+coverage/
+doc/api/
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+
+# Android/iOS
+android/.gradle/
+android/app/debug/
+android/app/profile/
+android/app/release/
+ios/Flutter/.last_build_id
+ios/Pods/
+macos/Flutter/ephemeral/
+*.keystore
+*.symbols
+*.map.json
+
+# Other
+*.log
+*.class
+*.tmp
+*.bak
+.DS_Store
